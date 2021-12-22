@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 8e4cad1cf9e20320886ed34d392b3042
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: Infiniti-Body
+  - first:
+      21: 2100002
+    second: Infiniti-alu
+  - first:
+      21: 2100004
+    second: Infiniti-Black
+  - first:
+      21: 2100006
+    second: Infiniti-Chrome
+  - first:
+      21: 2100008
+    second: Infiniti-fl-bulb
+  - first:
+      21: 2100010
+    second: Infiniti-fl_glass
+  - first:
+      21: 2100012
+    second: Infiniti-fl_lens
+  - first:
+      21: 2100014
+    second: Infiniti-fl_mirror
+  - first:
+      21: 2100016
+    second: Infiniti-Glass
+  - first:
+      21: 2100018
+    second: Infiniti-Glass_black
+  - first:
+      21: 2100020
+    second: Infiniti-Glass_dark
+  - first:
+      21: 2100022
+    second: Infiniti-Mirror
+  - first:
+      21: 2100024
+    second: 02-Infiniti_FX
+  - first:
+      21: 2100026
+    second: Infiniti-Shield
+  - first:
+      21: 2100028
+    second: Infiniti-shield_silver
+  - first:
+      21: 2100030
+    second: 01-tire
+  - first:
+      23: 2300000
+    second: //RootNode
+  - first:
+      33: 3300000
+    second: //RootNode
+  - first:
+      43: 4300000
+    second: 02-Infiniti_FX
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01-tire
+    second: {fileID: 2100000, guid: 0bdf7b49c90e6bc4287a3f94c016798a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02-Infiniti_FX
+    second: {fileID: 2100000, guid: 883b3e8680f1833438a08177327c257f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Black
+    second: {fileID: 2100000, guid: e3dff98d172ff59469b405cccac78394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Body
+    second: {fileID: 2100000, guid: 49f066fddd2524945809697fa723058d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Chrome
+    second: {fileID: 2100000, guid: e21f76729c31a934a8a27ca8cd0bd5f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Glass
+    second: {fileID: 2100000, guid: f225899b814ac5949898ce33007e3997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Glass_black
+    second: {fileID: 2100000, guid: 120f30fa1dc47ab4a8c7edea26581e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Glass_dark
+    second: {fileID: 2100000, guid: 49a7d9152aa535b45b353a69da441a01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Mirror
+    second: {fileID: 2100000, guid: 1276b7b69bd09ad469dd1be7f7e0c9d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-Shield
+    second: {fileID: 2100000, guid: 43a9fb1827d6e7742bb0ace4e6efb67e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-alu
+    second: {fileID: 2100000, guid: 1eb6f80b9e0e9794e977d497e130b9c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-fl-bulb
+    second: {fileID: 2100000, guid: bf9e2a3f3916fab44a8bbc70557f2ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-fl_glass
+    second: {fileID: 2100000, guid: f361665205dd7ee47b3679fe59bcf2d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-fl_lens
+    second: {fileID: 2100000, guid: 8f312cee432fc3349936b451478fcf02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-fl_mirror
+    second: {fileID: 2100000, guid: 6174cbc1a864fe14ca1ca83dcd9f9e63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Infiniti-shield_silver
+    second: {fileID: 2100000, guid: de10e907547914740ab15575e4a5a18b, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.001
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.000010000001
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
